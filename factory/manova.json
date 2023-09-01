@@ -1,0 +1,9 @@
+{
+	"name": "manova",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1701bd7e-e439-4985-9880-2c24c45dc5c6",
+		"tenantId": "c9e850f6-64ee-4a4f-8704-b9a3ff50fa92"
+	}
+}
